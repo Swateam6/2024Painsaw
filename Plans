@@ -1,0 +1,5 @@
+1.Setup power for a esc, get it working and firmware checked out. 
+2. Test motors using esc
+3. Figure out how to connect the esc to the radio reciever and get one motor working remotely
+4. Setup can bus between motor? I don't know how to do this wirelessly. Also can does very poorly when damaged. 
+5. Look into sending from one controller to multiple recievers. 
